@@ -1,2 +1,2 @@
 # hellocc
-node for c++ demo
+c++ addon for node demo
